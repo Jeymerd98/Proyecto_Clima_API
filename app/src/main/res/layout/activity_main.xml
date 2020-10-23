@@ -50,7 +50,7 @@
         android:text="HOY"
         android:textSize="18dp"
         android:textStyle="bold|italic"
-        app:iconTint="#FFFFFF"
+        app:iconTint="#03A9F4"
         app:layout_constraintStart_toStartOf="parent"
         app:layout_constraintTop_toTopOf="parent" />
 </androidx.constraintlayout.widget.ConstraintLayout>
